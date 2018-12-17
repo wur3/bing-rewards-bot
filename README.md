@@ -16,7 +16,27 @@ $ pip3 install selenium
 
 3. Create a "login.txt" file to hold your login username/email and password (at least 2 lines)
 
+  For example, `login.txt`
+  ```
+  [example]@gmail.com
+  [example]
+  ```
+
 4. Create a "words.txt" file to hold at least 10 random words each on a separate line as your filler searches (at least 10 lines)
+
+  For example, `words.txt`
+  ```
+  pizza
+  pokemon
+  reddit
+  sanic
+  ugandan knuckles
+  watermelon
+  internships
+  having a ball
+  overwatch
+  best search engine
+  ```
 
 5. Run `python3 main.py`
 
