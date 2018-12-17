@@ -40,7 +40,7 @@ driver.find_element_by_id('i0118').send_keys(password)
 # Submit password
 driver.find_element_by_id('idSIButton9').click()
 
-print('*hacker voice* I'm in.')
+print('*hacker voice* I\'m in.')
 ##############################################################
 #       Part 2: Searching
 ##############################################################
@@ -61,7 +61,7 @@ for i in range(10):
     #Inputs content into search bar
     search_bar.send_keys(words[i])
 
-    print('{0}. Searching \"{1}\".''.format(i+1, words[i]))
+    print('{0}. Searching \"{1}\".'.format(i+1, words[i]))
 
     # wait 1 second for everything to load
     time.sleep(1)
