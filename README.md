@@ -42,6 +42,10 @@ $ pip3 install selenium
 
 6. Profit at an atrociously slow rate. It's a pyramid scheme for crying out loud.
 
+## Contributing
+
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/wur3/ping-awards/issues/new).
+
 ## Author
 
 **Richard Wu**
