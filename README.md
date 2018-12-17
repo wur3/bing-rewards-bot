@@ -46,6 +46,9 @@ $ pip3 install selenium
 
 **Richard Wu**
 
+* [Github](https://github.com/wur3)
+* [LinkedIn](https://www.linkedin.com/in/richwu3/)
+
 ## References
 
 * https://www.youtube.com/watch?v=rUfTkPttAlI
