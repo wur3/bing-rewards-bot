@@ -1,6 +1,6 @@
 # ping-awards
 
-A python script to automate a certain pyramid scheme. It's all about the $5 gift card every few months.
+> A python script to automate a certain pyramid scheme. It's all about the $5 gift card every few months.
 
 ## Set up
 
