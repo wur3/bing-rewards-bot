@@ -12,7 +12,7 @@ with open('./login.txt') as input_file:
 
 url = 'https://www.bing.com/'
 
-driver = webdriver.Chrome('/home/rich3u/Downloads/chromedriver')
+driver = webdriver.Chrome('./chromedriver')
 
 browser = driver.get(url)
 
