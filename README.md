@@ -13,7 +13,10 @@
 $ pip3 install -r requirements.txt
 ```
 
-4. Create a "login.txt" file to hold your login username/email and password (at least 2 lines)
+4. Download chromedriver from https://chromedriver.storage.googleapis.com/index.html?path=2.38/ into the ping-awards directory
+
+
+5. Create a "login.txt" file to hold your login username/email and password (at least 2 lines)
 
   For example, `login.txt`
   ```
@@ -21,7 +24,7 @@ $ pip3 install -r requirements.txt
   [example]
   ```
 
-5. Create a "words.txt" file to hold at least 10 random words each on a separate line as your filler searches (at least 10 lines)
+6. Create a "words.txt" file to hold at least 10 random words each on a separate line as your filler searches (at least 10 lines)
 
   For example, `words.txt`
   ```
@@ -37,9 +40,9 @@ $ pip3 install -r requirements.txt
   best search engine
   ```
 
-6. Run `python3 main.py`
+7. Run `python3 main.py`
 
-7. Profit at an atrociously slow rate. It's a pyramid scheme for crying out loud.
+8. Profit at an atrociously slow rate. It's a pyramid scheme for crying out loud.
 
 ## Contributing
 
