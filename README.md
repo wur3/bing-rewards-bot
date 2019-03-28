@@ -31,12 +31,12 @@ $ pip3 install -r requirements.txt
   pizza
   pokemon
   reddit
-  sanic
-  ugandan knuckles
-  watermelon
-  internships
-  having a ball
-  overwatch
+  birds
+  green day
+  lady gaga
+  taylor swift
+  league of legends
+  clash of clans
   best search engine
   ```
 
